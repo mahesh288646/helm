@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  my-nginx:
+  - apiVersion: v1
+    appVersion: "2"
+    created: "2021-02-17T04:28:21.804686482Z"
+    description: This is a sample helm nginx
+    digest: b1bde2622e68e504a89bd1759ca23fc72fbaf4783eb4f292aa2add3b4bcdaf22
+    name: my-nginx
+    urls:
+    - my-nginx-0.6.0.tgz
+    version: 0.6.0
+generated: "2021-02-17T04:28:21.804296948Z"
